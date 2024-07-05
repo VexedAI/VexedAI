@@ -1,16 +1,16 @@
-## Hi there 👋
 
-<!--
-**VexedAI/VexedAI** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm David! 👋
 
-Here are some ideas to get you started:
+I'm a USAF Veteran turned Software Engineer. I love problem solving and working on projects that improve the workflow and lives of others.
+## 🚀 About Me
+I'm a C# Developer that loves finding ways to turn ideas into code.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## 🛠 Skills
+- C#
+- .NET Framework
+- .NET Core
+- Data Structures
+- Algorithms
+- WinForms, WPF, MAUI, Avalonia
+- Containerization / Virtualization
